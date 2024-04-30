@@ -2,7 +2,7 @@
 - 👀 I’m interested in decentralized games development, telegram game bots
 - 🌱 I’m currently learning python, tact, javascript
 - 💞️ I’m looking to collaborate on telegram bots, dApps
-- 📫 How to reach me tg @okoloboga
+- 📫 How to reach me tg @okolo_boga
 - 😄 Pronouns: I'am
 - ⚡ Fun fact: the next statement is false: the previous statement is true
 
